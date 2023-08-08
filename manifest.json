@@ -1,0 +1,18 @@
+{
+    "short_name": "Akatsuki",
+    "name": "Akatsuki",
+    "icons": [
+        {
+            "src": "./favicon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/home",
+    "background_color": "#000",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "theme_color": "#000",
+    "description": "Akatsuki - Official Akatsuki #1 Watch High Quality Anime Online Without Ads. You can watch anime online free in HD without Ads. Best place for free find and one-click anime."
+}
